@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sahil_Swain's Website</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Sahil's Website</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https:
+                //timdenning.com/sahil-bloom/&ved=2ahUKEwis6uHO-MmFAxX_U_UHHZjBBT8QFnoECBEQAQ&usg=AOvVaw3
+                b4lOmhhLuwwKYoTfrkBie"> about
+
+            </a></li>
+            <li><a href="portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section id="about">
+            <h2>About Sahil Swain</h2>
+            <p>Sahil is of Indian origin, and it means ‘leader.’ Although the word originally
+                referred to a beach or shoreline, it has evolved to denote someone who directs similarly to the sea. <br>
+                In many cultures, the name Sahil is given to a person who guides or leads a communit
+                y. Hence, the sea or shoreline is a great inspiration for the name.</p>
+        </section>
+        
+        <section id="portfolio">
+            <h2>Portfolio</h2>
+            <p>Check out some of My work:</p>
+            <ul>
+                <li><a href="portfolio/project1.html">Project 1</a></li>
+                <li><a href="portfolio/project2.html">Project 2</a></li>
+                <li><a href="portfolio/project3.html">Project 3</a></li>
+            </ul>
+        </section>
+        
+        <section id="contact Sahil Swain">
+            <h2>Contact Claudine</h2>
+            <p>Feel free to get in touch:</p>
+            <ul>
+                <li>Email: Sahilswain049</li>
+                <li>Phone: 8455861135</li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Sahil Swain's Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
